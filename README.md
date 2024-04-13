@@ -1,2 +1,4 @@
-# 17-homework
-schedule-2
+База даних з можливістю ставити оцінки
+
+start:
+terminal - node index.js
